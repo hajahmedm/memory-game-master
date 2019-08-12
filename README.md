@@ -3,10 +3,8 @@ This project is a Classic memory game transformed to a web app on behalf of Udac
 
 There are total of 16 cards and your score will depend on your total stars and the time elapsed to finish the game.
 
-# How to run the game
-Download the repository as zip file in your computer or alternatively you can clone it.
-Open the index.html file in your browser.
-play the game!
+## Preview
+You can play the game [Here](https://hajahmedm.github.io/memory-game-master/)  
 
 
 # Technologies used in the application
