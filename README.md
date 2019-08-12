@@ -3,7 +3,7 @@ This project is a Classic memory game transformed to a web app on behalf of Udac
 
 There are total of 16 cards and your score will depend on your total stars and the time elapsed to finish the game.
 
-## Preview
+# Preview
 You can play the game [Here](https://hajahmedm.github.io/memory-game-master/)  
 
 
